@@ -3,6 +3,8 @@
 
 Colab_Linux is used to get a Remote Connection to Google Colaboratory and use it with a graphical user interface that can be used in many ways.  It gives you a high-end VM for maximum 12 hours which increases your productivity and you can perform heavy tasks without worry.
 
+### Open in Colab
+[![Open In Colab RDP](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YP-HURGj5DoKu8w2_UGUXNepe43Zy1pC?usp=sharing)
 
  ### **Keep 2 things in mind**
  - Do not use the username `root` (it conflicts with root user)
